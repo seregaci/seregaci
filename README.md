@@ -1,6 +1,6 @@
 - 👋 Hi, I’m seregaci
 - 👀 I’m interested in golf, game and coding
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning  HTML, CSS, PYTHON
 - 📫 How to reach me ...
 
 <!---
